@@ -3,6 +3,6 @@
 
 
 # Regex
-- cppFileCopyWithoutComment.pl
-    *Parse C++ file and remove 
+- cppFileCopyWithoutComment.pl   
+    /*Utiize Perl to Parse C++ file and remove single and mutiline comments*/
 
